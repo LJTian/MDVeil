@@ -1,6 +1,3 @@
-以下是 MDVeil 的 Markdown 介绍：
-
-```markdown
 # MDVeil
 
 ## 简介
@@ -35,6 +32,3 @@ mdveil input.md output.md
 ## 许可证
 
 MDVeil 遵循 Apache-2.0 license 许可证。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
-```
-
-你可以根据需要进行修改或添加更多信息！
