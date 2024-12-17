@@ -1,6 +1,6 @@
 # MDVeil
 
-| 生成原因请查看 blog[https://ljtian.com/ai-%E6%98%AF%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E7%BC%96%E5%86%99%E7%A8%8B%E5%BA%8F%E7%9A%84]
+生成原因请查看 [blog](https://ljtian.com/ai-%E6%98%AF%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E7%BC%96%E5%86%99%E7%A8%8B%E5%BA%8F%E7%9A%84)
 
 ## 简介
 
