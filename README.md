@@ -25,10 +25,6 @@ mdveil input.md output.md
 
 此命令将处理 `input.md` 文件，并将结果输出到 `output.md`，隐藏内部数据。
 
-## 贡献
-
-欢迎贡献代码和建议！请查看 [贡献指南](CONTRIBUTING.md) 以获取更多信息。
-
 ## 许可证
 
 MDVeil 遵循 Apache-2.0 license 许可证。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
